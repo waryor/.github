@@ -1,12 +1,7 @@
-## Hi there 👋
+🙋‍♀️ We are an digital agency helping our clients increase their business value through intuitive software and user-centered design<br>
+🌈 Want to contribute - please do so, we are happy for every input!<br>
+🌎 Pay us out at [waryor.com](https://waryor.com">waryor.com)<br>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🚀 Checkout our apps:
+* [umbr.app](https://umbr.app/?ref=github)
+* [bulletinboard](https://bulletinboard.app/?ref=github)
